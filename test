@@ -1,1 +1,20 @@
 
+Git and GitHub From Scratch
+A slow, plain-language explanation for first-time learners
+Student name s13students Date 10/10/26
+Topic Git and GitHub concepts Level Absolute beginner
+Start here: You do not need to know programming before learning Git. Git is simply a tool that
+remembers changes made to files.
+Before Git: the common problem
+Imagine you are writing a school report. You save many copies:
+report.docx
+report-final.docx
+report-final-2.docx
+report-final-really-final.docx
+After some time, you may not know which copy is correct. You may also delete good work by mistake. If
+several people edit the same project, the confusion becomes worse.
+Git solves this problem by keeping an organized history of the project. Instead of making many confusing
+copies, you keep one project and ask Git to record important moments.
+The simplest definition
+Git is a tool that tracks changes in files and lets you save named checkpoints.
+Built by DEL_SUPPORT_VALDES Page 1
